@@ -1,0 +1,34 @@
+_repo: Bocetos-californianos_25671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2008-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25671'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'California -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: Melisa -- El Hijo Pródigo del señor Tomás -- Magdalena -- El idilio
+  de Red-gulch -- De cómo San Nicolás llegó a Bar Sansón -- La suerte de Campo Rodrigo
+  -- El socio de Tennessee -- Un pobre hombre -- Los Desterrados de Poker Flat --
+  Una Noche en Wingdam -- Moreno De Calaveras -- Carolina -- De-Hinchú, el idólatra.
+title: Bocetos californianos
+url: http://www.gutenberg.org/ebooks/25671
